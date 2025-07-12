@@ -2,6 +2,14 @@
 # 🔐 VXFLIPCHAT Protocol UI
 
 [![GitHub Pages](https://img.shields.io/badge/🚀%20Live%20App-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://regislara-byte.github.io/VXflipchat_FinalDeploy/)
+[![PWA Ready](https://img.shields.io/badge/PWA-ready-green?style=for-the-badge&logo=progress)](https://regislara-byte.github.io/VXflipchat_FinalDeploy/)
+[![License: VAXINX Creator Protocol™](https://img.shields.io/badge/License-VAXINX%20Protocol™-purple?style=for-the-badge)](https://regislara-byte.github.io/VXflipchat_FinalDeploy/Jaglotl-license.md)
+[![QR-Embedded](https://img.shields.io/badge/🔐%20QR-Embedded-orange?style=for-the-badge&logo=iconify)](https://regislara-byte.github.io/VXflipchat_FinalDeploy/vxchat_manifest.json)
+[![Wallet-Tagged](https://img.shields.io/badge/🪙%20Wallet-0x5947...3666-yellow?style=for-the-badge&logo=ethereum)](https://etherscan.io/address/0x5947712D13AaB3E6F4021Ff04F83881F778d3666)
+
+VXFLIPCHAT is an experimental Progressive Web App...
+
+[![GitHub Pages](https://img.shields.io/badge/🚀%20Live%20App-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://regislara-byte.github.io/VXflipchat_FinalDeploy/)
 
 
 VXFLIPCHAT is an experimental Progressive Web App (PWA) prototype forged under the **VAXINX Protocol™**, by **Regis Lara** (a.k.a. Mr. Doppio). It explores sovereign chat identity, offline-ready messaging, and FlipTech UI components — all designed to operate even beyond WiFi.
