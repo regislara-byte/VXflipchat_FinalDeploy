@@ -1,0 +1,13 @@
+{
+  "name": "VXflipchatApp",
+  "short_name": "VXChat",
+  "start_url": "./index_final.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "description": "Secure, Flip-ready PWA Chat forged by VAXINX Protocol™",
+  "icons": [{
+    "src": "vxflipchat_footer.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
